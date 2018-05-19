@@ -1,0 +1,99 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif
+  }
+  
+  /* Style the header */
+  .header {
+      background-color: gainsboro;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      width: 100%;
+      text-align: center;
+      color: gray;
+      margin-bottom: 5px;
+  }
+  
+  .topnav {
+    background-color: gainsboro;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: gray;
+    margin-bottom: 10px;
+} 
+  
+  .section {
+      background-color: gainsboro;
+      text-align: center;
+      color: gray;
+      float: left;
+      width: 60%;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-bottom: 10px;
+      margin-right: 2%;
+  }
+
+  .aside {
+    background-color: gainsboro;
+    text-align: center;
+    color: gray;
+    float:left;
+    width: 38%;
+    padding-top: 10px;
+    padding-bottom: 127px;
+    margin-bottom:10px;
+   
+}
+
+  .article{
+      background-color:gray;
+      color:gainsboro;
+      text-align: center;
+      margin-top:10px;
+      margin-left: 10px;
+      margin-right: 10px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+
+  .h{
+      background-color: gainsboro;
+      color: gray;
+      text-align:center;
+      margin-top: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-bottom: 10px;
+      padding: 5px;
+  }
+
+  .p{
+    background-color: gainsboro;
+    color: gray;
+    text-align:center;
+    margin-left: 20px;
+    margin-right: 20px;  
+    padding-top: 5px;
+    padding-bottom: 5px;  
+    }
+
+  .row:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  .footer {
+      background-color: gainsboro;
+      text-align: center;
+      color: gray;
+      padding-right: 20px;
+      padding-left: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;      
+  }
